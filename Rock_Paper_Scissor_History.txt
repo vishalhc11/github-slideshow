@@ -1,0 +1,4 @@
+Total number of Match : 24
+Number of Users Win : 7
+Number of Computer Win : 14
+Number of Tie matches : 3
